@@ -15,5 +15,14 @@ function reverseString2(str) {
   return reverseString;
 }
 
-const result = reverseString('javascript');
+// Solution Three
+function reverseString3(str) {
+  let reverseString = '';
+  str.split('').forEach(function(char) {
+    reverseString = char + reverseString; 
+  });
+  return reverseString;
+}
+
+const result = reverseString3('javascript');
 console.log(result);
