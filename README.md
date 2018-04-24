@@ -1,7 +1,7 @@
 # Javscript Challenges/Job Interview Questions
 
 
-I will be solving & pushing algorithm questions regulary.
+I will be solving & pushing algorithm questions regularly.
 
 There is no one solution to solving problems in programming, If there's another solution to solving any problem, that i know of, I will definitely include it.
 
